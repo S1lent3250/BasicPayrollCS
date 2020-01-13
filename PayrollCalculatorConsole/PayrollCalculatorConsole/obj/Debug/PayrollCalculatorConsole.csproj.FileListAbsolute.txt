@@ -1,0 +1,5 @@
+/Users/s1lent/Documents/Programming/C#/Modules/Payroll/PayrollCalculatorConsole/PayrollCalculatorConsole/bin/Debug/PayrollCalculatorConsole.exe
+/Users/s1lent/Documents/Programming/C#/Modules/Payroll/PayrollCalculatorConsole/PayrollCalculatorConsole/bin/Debug/PayrollCalculatorConsole.pdb
+/Users/s1lent/Documents/Programming/C#/Modules/Payroll/PayrollCalculatorConsole/PayrollCalculatorConsole/obj/Debug/PayrollCalculatorConsole.csprojAssemblyReference.cache
+/Users/s1lent/Documents/Programming/C#/Modules/Payroll/PayrollCalculatorConsole/PayrollCalculatorConsole/obj/Debug/PayrollCalculatorConsole.exe
+/Users/s1lent/Documents/Programming/C#/Modules/Payroll/PayrollCalculatorConsole/PayrollCalculatorConsole/obj/Debug/PayrollCalculatorConsole.pdb
